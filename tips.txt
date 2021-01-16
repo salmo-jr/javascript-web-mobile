@@ -1,0 +1,14 @@
+deploy
+	node
+		heroku (plano gratuito) - Deploy de aplicação NodeJS e ReactJS no Heroku | Diego Fernandes
+		DigitalOcean (plano pago) - Deploy de apps Node.js | Masterclass #03
+	react
+		netlify (plano gratuito)
+	react native
+		lojas - Gerando APK (Android) e IPA(iOS) com React Native & Expo | Code/Drops #15
+
+Padrões de código: ESLint, Prettier
+Autenticação JWT
+Styled Components
+	 
+	
